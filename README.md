@@ -5,10 +5,8 @@ Detta repo innehåller alla filer för min backend skriven i PHP.
 Jag har tre mappar som innehåller följande:
 
 1. api: Denna mapp innehåller min webtjänst som möjliggör CRUD-opertaioner.
-
 2. classes: Denna mapp inehåller en klass som möjliggör att ett kursobjekt skapas. Här i finns också metoderna som möjliggör CRUD till databasen.
-
-3.config: I denna mapp har jag min databaskoppling som jag gjort med hjälp av PDO. Samt en htacess fil som snyggar till adressfältet.
+3. config: I denna mapp har jag min databaskoppling som jag gjort med hjälp av PDO. Samt en htacess fil som snyggar till adressfältet.
 
 För att lagra data till databasen använder man webbtjänsten tilsammans med ett program som tex. Advanced Rest Client där man kan välja olika metoder för CRUD.
 
